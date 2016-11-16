@@ -1,11 +1,45 @@
-head {
-    background-color: lightblue;
-    font-size: 10px;
-    color: navy;
+body {
+    background-color: gray;
+    opacity: 0.8;
+    font-size: 2.1em;
+    color: plum;
+    text-align: center;
 }
 
-body {
-    background-color: navy;
-    font-size: 2em;
+h1, h2, h3 {
+    word-spacing: 30px;
+    padding: 10px, 50px, 30px, 80px;
+    font-family: Georgia;
     color: lightblue;
+}
+
+h1 {
+    text-decoration: overline;
+}
+
+h3 {
+    word-spacing: 10px;
+    font-size: 1em;
+    color: #99ff99;
+}
+
+h2 {
+    font-size: .8em;
+    color: #ff704d;
+}
+
+ul, li a:visited {
+    font-size: .6em;
+    color: yellow; 
+}
+
+li a:hover {
+    color: orange;
+    font-size: 2em;
+}
+
+p {
+    font-size: .5em;
+    font-family: Comic Sans MS;
+    text-align: justify;
 }

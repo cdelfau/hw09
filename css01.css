@@ -1,3 +1,7 @@
+body {
+    background-color: black;
+}
+
 h1, h2, h3 {
     color: navy;
     background-color: lightblue;
@@ -6,15 +10,18 @@ h1, h2, h3 {
 }
 
 h2, h3 {
-    background-color: white;
     text-align:left;
     font-size: 2em;
 }
 
-li a:hover {
-    color: green;
+li a:visited, li a:link {
+    color: lightblue;
 }
 
-a:visited, a:link {
-    color: blue;
+li a:hover {
+    color: plum;
+}
+
+p {
+    color: plum;
 }
