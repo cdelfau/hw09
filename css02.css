@@ -1,0 +1,11 @@
+head {
+    background-color: lightblue;
+    font-size: 10px;
+    color: navy;
+}
+
+body {
+    background-color: navy;
+    font-size: 2em;
+    color: lightblue;
+}

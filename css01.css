@@ -1,0 +1,20 @@
+h1, h2, h3 {
+    color: navy;
+    background-color: lightblue;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2, h3 {
+    background-color: white;
+    text-align:left;
+    font-size: 2em;
+}
+
+li a:hover {
+    color: green;
+}
+
+a:visited, a:link {
+    color: blue;
+}
