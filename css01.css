@@ -1,3 +1,52 @@
+body {
+    background-color: #000000;
+}
+
+.extreme {
+    color: #81072c;
+    text-align:center;
+}
+
+#head1 {
+    font-size: 1.8em;
+}
+
+.navzone {
+    color: #f0544f;
+}
+
+#tehlulz:visited {
+    color: #70a9a1;
+}
+
+li a:visited {
+    color: #41b3bd;
+}
+
+li a:hover {
+    color: #fffffa;
+    font-size: 1.2em;
+}
+
+.content {
+    color: #f0544f;
+    text-align: center;
+}
+
+.prose {
+    color: #fffffa;
+    text-align: justify;
+}
+
+.prose:hover {
+    color: #41b3bd;
+    background: #cbf3ed;
+    font-weight: bold;
+    font-size: 1.8em;
+}
+
+/* THIS WAS THE CSS FOR THE style_me.html FILE
+
 h1, h2, h3 {
     color: navy;
     text-align: center;
@@ -21,3 +70,4 @@ li a:hover {
 p {
     color: purple;
 }
+*/
