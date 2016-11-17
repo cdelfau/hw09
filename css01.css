@@ -1,10 +1,9 @@
 body {
-    background-color: black;
+    background-color: lightblue;
 }
 
 h1, h2, h3 {
     color: navy;
-    background-color: lightblue;
     text-align: center;
     font-size: 50px;
 }
@@ -15,13 +14,14 @@ h2, h3 {
 }
 
 li a:visited, li a:link {
-    color: lightblue;
+    color: white;
 }
 
 li a:hover {
-    color: plum;
+    color: purple;
+    font-size: 1.5em;
 }
 
 p {
-    color: plum;
+    color: purple;
 }
