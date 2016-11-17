@@ -1,4 +1,34 @@
 body {
+    background-color: #cfe0c3;
+}
+
+.extreme {
+    color: #1f363D;
+}
+
+#head1 {
+
+}
+
+.navzone {
+    color: #70a9a1;
+}
+
+#tehlulz {
+
+}
+
+.content {
+    color: #9ec1a3;
+}
+
+.prose {
+    color: #40798C;
+    text-align: justify;
+}
+
+/*
+body {
     background-color: gray;
     opacity: 0.8;
     font-size: 2.1em;
@@ -43,3 +73,4 @@ p {
     font-family: Comic Sans MS;
     text-align: justify;
 }
+*/
